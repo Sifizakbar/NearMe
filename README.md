@@ -185,7 +185,7 @@ acupunture.html
 
 
 ![alt text](kids.png)
-
+![alt text](hotel.png)
 
 ![alt text](enterprise.png)
 
